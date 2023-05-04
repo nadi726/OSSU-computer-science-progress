@@ -27,4 +27,4 @@ Additional info: Didn't take this. took CS50 instead.
 
 ## Core CS
 ### Core programming
-- How to code: simple data | start: 25/3 | finish: - | Info: Looks great.
+- How to code: simple data | start: 25/3 | finish: 4/5 | Info: Great course!
