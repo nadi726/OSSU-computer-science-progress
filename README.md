@@ -29,4 +29,5 @@ Additional info: Didn't take this. took CS50 instead.
 ### Core programming
 - How to code: simple data      | start: 25/3 | finish: 4/5  | Info: [review](./reviews/How-to-code-course-review.md)
 - How to code: complex data     | start: 31/5 | finish: 10/7 | Info: [review](./reviews/How-to-code-course-review.md)
-- Programming languages, part A | start: 11/7 | finish: ---  | Info: ---
+- Programming languages, part A | start: 11/7 | finish: 20/8  | Info: ---
+- Programming languages, part B | start: ---  | finish: ---  | Info: ---
