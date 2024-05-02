@@ -27,8 +27,8 @@ Additional info: Didn't take this. took CS50 instead.
 
 ## Core CS
 ### Core programming
-- How to code: simple data      | start: 25/3 | finish: 4/5   | Info: [review](./reviews/How-to-code-course-review.md)
-- How to code: complex data     | start: 31/5 | finish: 10/7  | Info: [review](./reviews/How-to-code-course-review.md)
-- Programming languages, part A | start: 11/7 | finish: 20/8  | Info: ---
-- Programming languages, part B | start: 21/8 | finish: 10/9  | Info: ---
-- Programming languages, part C | start: ---  | finish: ---   | Info: ---
+- How to code: simple data      | start: 25/3/23  | finish: 4/5/23  | Info: [review](./reviews/How-to-code-course-review.md)
+- How to code: complex data     | start: 31/5/23  | finish: 10/7/23 | Info: [review](./reviews/How-to-code-course-review.md)
+- Programming languages, part A | start: 11/7/23  | finish: 20/8/23 | Info: [review](<./reviews/Programming Languages - course review.md>)
+- Programming languages, part B | start: 21/8/23  | finish: 10/9/23 | Info: [review](<./reviews/Programming Languages - course review.md>)
+- Programming languages, part C | start: 26/11/23 | finish: 2/5/24  | Info: [review](<./reviews/Programming Languages - course review.md>)
