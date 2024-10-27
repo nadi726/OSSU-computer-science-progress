@@ -32,4 +32,4 @@ Additional info: Didn't take this. took CS50 instead.
 - Programming languages, part A | start: 11/7/23  | finish: 20/8/23 | Info: [review](<./reviews/Programming Languages - course review.md>)
 - Programming languages, part B | start: 21/8/23  | finish: 10/9/23 | Info: [review](<./reviews/Programming Languages - course review.md>)
 - Programming languages, part C | start: 26/11/23 | finish: 2/5/24  | Info: [review](<./reviews/Programming Languages - course review.md>)
-- Introduction to Class-based Program Design - cs2510 | start: 4/8/24 | finish: ------ | Info: following [this RFC](https://github.com/ossu/computer-science/issues/1168) instead of the official courses OOD and Design Patterns
+- Introduction to Class-based Program Design - cs2510 | start: 4/8/24 | finish: 27/10/24 | Info: ---
